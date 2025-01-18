@@ -1,6 +1,8 @@
-
+<!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head>	
+		<meta charset="UTF-8">
+		<meta name="viewport" content=width=divice-width, initial-scale=1.0">
 		<title> HMB and TJY Scholarship web </title>
 		<style>
 			
